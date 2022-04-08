@@ -2,8 +2,8 @@ package com.fc.entity;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
+import java.util.Map;
 public class ComplexType {
     private Object[] objects;
     private List<String> list;
