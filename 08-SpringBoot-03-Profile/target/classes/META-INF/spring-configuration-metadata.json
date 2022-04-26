@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.fc.entity.Father",
+      "sourceType": "com.fc.entity.Father"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.fc.entity.Father"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.fc.entity.Father"
+    }
+  ],
+  "hints": []
+}
