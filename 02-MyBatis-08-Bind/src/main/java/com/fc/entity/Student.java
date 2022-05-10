@@ -12,4 +12,6 @@ public class Student {
     private String gender;
     private Date birthday;
     private String info;
+
+
 }
