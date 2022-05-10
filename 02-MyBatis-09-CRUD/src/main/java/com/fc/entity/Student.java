@@ -9,4 +9,6 @@ public class Student {
     private Byte age;
     private String gender;
     private String info;
+
+
 }
